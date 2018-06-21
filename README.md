@@ -15,6 +15,7 @@ Telas e descrição do aplicativo: http://robertocorrea.eco.br/aplicativo.html
 - [Fredys](https://github.com/FredySchaible), mentor tech/business 
 - [Thierry](https://github.com/thithi32), mentor tech
 - [Guilherme](https://github.com/biketrooper), mentor
+- Ítalo, dev
 
 # Todo
 
