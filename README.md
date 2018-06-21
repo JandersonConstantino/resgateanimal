@@ -31,7 +31,7 @@ Definir os escopo de um primeiro MVP
 # Hístórico
 
 - Hack night : apresentação do projeto pelo Roberto
-- Hack night 23/05 : Ítalo / Dirceu participaram do projeto
+- Hack night 23/05 : Ítalo / Dirceu / Igor participaram do projeto
 - Hack night 06/06 : Fredys e Thierry, se disponibilizaram com mentores tecnicos
 - Hack night 20/06 : Criação do projeto Github e inicialização da página Github
 
