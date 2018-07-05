@@ -15,7 +15,7 @@ Telas e descrição do aplicativo: http://robertocorrea.eco.br/aplicativo.html
 - [Fredys](https://github.com/FredySchaible), mentor tech/business 
 - [Thierry](https://github.com/thithi32), mentor tech
 - [Guilherme](https://github.com/biketrooper), mentor
-- Ítalo, dev
+- Ítalo / Dirceu / Igor
 
 # Todo
 
@@ -34,6 +34,6 @@ Definir os escopo de um primeiro MVP
 - Hack night 23/05 : Ítalo / Dirceu / Igor participaram do projeto
 - Hack night 06/06 : Fredys e Thierry, se disponibilizaram com mentores tecnicos
 - Hack night 20/06 : Criação do projeto Github e inicialização da página Github
-- Hack night 04/07 : Adição da landing no projeto, instalação do Git na máquina do Roberto
+- Hack night 04/07 : Thierry adicionou a landing no projeto, instalação e apresentação do Git na máquina do Roberto e das isues do Github. Paloma deu alguns feedback sobre o projeto.
 
 
