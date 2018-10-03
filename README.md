@@ -1,39 +1,39 @@
-# resgateanimal
-Aplicativo para ajudar o resgate de animais da rua em situação de risco
+# Resgate Animal
+Um aplicativo para ajudar no resgate de animais de rua em situação de risco.
 
-# Sobre o projeto
 
-http://resgateanimal.eco.br/
+## Sobre o projeto
 
-https://www.facebook.com/roberto.correa.129794
+|||
+|---------|-----------|
+| Website | http://resgateanimal.eco.br |
+| Idealizador | https://www.facebook.com/roberto.correa.129794 |
+|Telas e descrição do aplicativo| http://robertocorrea.eco.br/aplicativo.html |
 
-Telas e descrição do aplicativo: http://robertocorrea.eco.br/aplicativo.html
 
-# O Time
+## O Time
+- [Roberto](https://www.facebook.com/roberto.correa.129794), Idealizador
+- [Fredys](https://github.com/FredySchaible), Mentor Tech/Business 
+- [Thierry](https://github.com/thithi32), Mentor Tech
+- [Guilherme](https://github.com/biketrooper), Mentor
+- Ítalo 
+- Dirceu
+- Igor
 
-- Roberto, idealizador
-- [Fredys](https://github.com/FredySchaible), mentor tech/business 
-- [Thierry](https://github.com/thithi32), mentor tech
-- [Guilherme](https://github.com/biketrooper), mentor
-- Ítalo / Dirceu / Igor
 
-# Todo
-
+# Pendente
 Completar time com:
-- um designer
-- um dev mobile (pode ser iniciante)
-- um story teller para ajudar na comunicação
+- Um designer;
+- Um dev mobile _(pode ser iniciante)_;
+- Um story teller para ajudar na comunicação;
+- Escolher as tecnologias.
+- Definir os escopo de um primeiro MVP
 
-Escolher as tecnologias
 
-Definir os escopo de um primeiro MVP
-
-# Hístórico
+# Histórico
 
 - Hack night : apresentação do projeto pelo Roberto
 - Hack night 23/05 : Ítalo / Dirceu / Igor participaram do projeto
 - Hack night 06/06 : Fredys e Thierry, se disponibilizaram com mentores tecnicos
 - Hack night 20/06 : Criação do projeto Github e inicialização da página Github
 - Hack night 04/07 : Thierry adicionou a landing no projeto, instalação e apresentação do Git na máquina do Roberto e das isues do Github. Paloma deu alguns feedback sobre o projeto.
-
-
