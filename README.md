@@ -4,7 +4,7 @@ Um aplicativo para ajudar no resgate de animais de rua em situação de risco.
 
 ## Sobre o projeto
 
-|||
+| Descrição | Link |
 |---------|-----------|
 | Website | http://resgateanimal.eco.br |
 | Idealizador | https://www.facebook.com/roberto.correa.129794 |
